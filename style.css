@@ -146,6 +146,11 @@ nav {
   letter-spacing: 1px;
   margin-left: 5px;
 }
+.btn:hover{
+  background-color: #f9004d;
+  border-color: #f9004d;
+  box-shadow: 0 0 20px #f9004d;
+}
 
 .title h2 {
   color: white;
